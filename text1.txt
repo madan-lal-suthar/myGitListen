@@ -1,10 +1,12 @@
 hello
 my 
-world
-this 
-is 
-wonderfull
-world 
-in 
-the 
-galaxy
+
+On GitHub.com, navigate to the main page of the repository. In the "Branch" menu, choose the branch that contains your commits. Above the list of files, in the yellow banner, click Compare & pull request to create a pull request for the associated branch.
+
+
+
+or this example we will need to create three dummy coded variables. In general, with k groups there will be k-1 coded variables. Each of the dummy coded variables uses one degree of freedom, so k groups has k-1 degrees of freedom, just like in analysis of variance.
+
+Here is how we will create the dummy variables which we will call d1, d2 and d3. For d1, every observation in group 1 will be coded as 1 and 0 for all other groups it will be coded as zero. We then code d2 with 1 if the observation is in group 2 and zero otherwise. For d3, observations in group 3 will be coded 1 and zero for the other groups. For d4, there is no d4. d4 is not needed because d1-d3 has all of the information needed to determine which observation is in which group.
+
+Here is how the data look when arranged for use with a regression procedure.
